@@ -1,0 +1,35 @@
+.nav {
+    background-color: rgb(163, 162, 162);
+    display: block;
+    max-width: 1000px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 2px solid black;
+    font-weight: 700;
+    position: sticky;
+    top: 0;
+    border-radius: 10px;
+    box-shadow: 5px -5px 12px 2px rgb(163, 163, 163);
+    font-family: 'Lato', sans-serif;
+}
+
+.nav__linkSite {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.nav__linkSite:hover {
+    color: red;
+}
+
+.nav_linkSite--darkTheme {
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+.nav--darkTheme {
+    background-color: rgb(46, 45, 45);
+    color: white;
+}

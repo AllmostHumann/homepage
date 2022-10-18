@@ -1,0 +1,66 @@
+.table {
+    overflow-x: auto;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px -5px 12px 2px rgb(163, 163, 163);
+    width: 100%;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.table__Cell {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table__Row:hover {
+    background-color: rgb(221, 221, 221);
+}
+
+.table__Tittle {
+    margin: 5px;
+    font-weight: normal;
+    caption-side: bottom;
+    text-align: right;
+}
+
+.table__Header {
+    background-color: rgba(99, 99, 99, 0.24);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.table__link {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-weight: 700;
+
+}
+
+.table__link:hover {
+    color: rgba(255, 0, 0, 0.699);
+    outline: none;
+}
+
+.table__links--darkTheme {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+.table__Cell--DarkTheme {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: rgb(128, 128, 128);
+    color: rgb(0, 0, 0);
+}
+
+.table__Header--DarkTheme {
+    background-color: rgb(46, 45, 45);
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
