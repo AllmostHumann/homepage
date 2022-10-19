@@ -10,7 +10,7 @@
 console.log(Hi!);
 ```
 
-This is my first ever project made with #YouCode course. In next few months I will be gradually implement new features based on what I learnt during the course. 
+This is my first ever project made with <b>#YouCode course.</b> In next few months I will be gradually implement new features based on what I learnt during the course. 
 
 Please follow me and see how I become Frontend dev! 
 
