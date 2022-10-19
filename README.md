@@ -1,10 +1,10 @@
 # Jakub Głuch - my personal homepage
 
-![Jakub](https://github.com/AllmostHumann/homepage/blob/main/images/profilowe.jpg?raw=true)
+<img src="https://github.com/AllmostHumann/homepage/blob/main/images/profilowe.jpg?raw=true" height="500"/>
 
 ## Demo https://allmosthumann.github.io/homepage/
 
-## Description
+## Introduction
 
 ```javascript
 console.log(Hi!);
@@ -18,3 +18,6 @@ Ps: I'm strongly open for comments and suggestion!
 
 Cheers!
 
+## Description 
+
+Personal homepage. Updated and upgared every week after new part of the #YouCode course. 
