@@ -45,12 +45,12 @@ header__themeButtonElement.addEventListener("click", () => {
     });
 
     table__Cells.forEach((table__Cell) => {
-        table__Cell.classList.toggle("table__Cell--darkTheme")
+        table__Cell.classList.toggle("table__cell--darkTheme")
 
     });
 
     table__Headers.forEach((table__Header) => {
-        table__Header.classList.toggle("table__Header--darkTheme")
+        table__Header.classList.toggle("table__ceader--darkTheme")
 
     });
 
