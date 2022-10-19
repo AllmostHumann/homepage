@@ -50,7 +50,7 @@
     cursor: pointer;
 }
 
-.table__cell--DarkTheme {
+.table__cell--darkTheme {
     border: 1px solid rgb(0, 0, 0);
     padding: 10px;
     text-align: center;
@@ -59,7 +59,7 @@
     color: rgb(0, 0, 0);
 }
 
-.table__header--DarkTheme {
+.table__header--darkTheme {
     background-color: rgb(46, 45, 45);
     color: rgb(255, 255, 255);
     font-weight: 700;
