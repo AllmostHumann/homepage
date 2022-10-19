@@ -50,7 +50,7 @@ header__themeButtonElement.addEventListener("click", () => {
     });
 
     table__Headers.forEach((table__Header) => {
-        table__Header.classList.toggle("table__ceader--darkTheme")
+        table__Header.classList.toggle("table__header--darkTheme")
 
     });
 
